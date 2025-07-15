@@ -9,21 +9,21 @@ const Projects = () => {
       title: "Shirikisha - Chama Management System",
       description: "A comprehensive management system for Chama groups (savings and credit cooperatives) featuring member management, savings tracking, loan processing, and financial reporting. Built to empower communities through organized financial collaboration.",
       image: shirikishaImage,
-      githubUrl: "https://github.com/geekinryxnn/Shirikisha--chama-management-system",
+      githubUrl: "https://shirikisha-investment-groups-manager.onrender.com",
       tags: ["React", "Node.js", "MongoDB", "Express", "Financial Tech"]
     },
     {
       title: "Wildlife Conservation Project",
       description: "An innovative wildlife tracking and conservation management platform that helps protect endangered species through data collection, monitoring, and analytics. Features animal tracking, habitat monitoring, and conservation metrics.",
       image: wildlifeImage,
-      githubUrl: "https://github.com/geekinryxnn/Wildlife-Project",
+      githubUrl: "https://wildlife-project-one.vercel.app/",
       tags: ["Python", "Data Analytics", "Conservation", "Tracking", "Environmental"]
     },
     {
       title: "Grocery Shopping App",
       description: "A modern e-commerce mobile application that simplifies grocery shopping with features like product browsing, cart management, order tracking, and seamless checkout experience. Designed for convenience and user-friendly shopping.",
       image: groceryImage,
-      githubUrl: "https://github.com/geekinryxnn/Grocery-Shopping-App",
+      githubUrl: "https://grocery-shopping-app.vercel.app/",
       tags: ["React Native", "E-commerce", "Mobile", "Shopping Cart", "UX/UI"]
     }
   ];

@@ -41,7 +41,7 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "ryangeekin@email.com",
+      value: "ryankiratu67@email.com",
       href: "mailto:ryangeekin@email.com"
     },
     {
@@ -54,13 +54,13 @@ const Contact = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "ryan-geekin",
-      href: "https://linkedin.com/in/ryan-geekin"
+      href: "https://www.linkedin.com/in/ryan-kiratu-208098367/"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+254 123 456 789",
-      href: "tel:+254123456789"
+      value: "+254 797 178 273",
+      href: "tel:+254797178273"
     }
   ];
 

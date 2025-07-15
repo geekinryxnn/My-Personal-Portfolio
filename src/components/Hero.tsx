@@ -26,7 +26,7 @@ const Hero = () => {
           </Avatar>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
-            Hi, I'm <span className="text-gradient">Ryan Geekin</span>
+            Hi, I'm <span className="text-gradient">Ryan Ngugi</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-purple-light mb-8 max-w-2xl mx-auto">
