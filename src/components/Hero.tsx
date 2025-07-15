@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="animate-fade-in">
           <Avatar className="w-32 h-32 mx-auto mb-8 ring-4 ring-primary/30 animate-glow">
-            <AvatarImage src={profilePhoto} alt="Ryan Geekin" className="object-cover" />
+            <AvatarImage src={profilePhoto} alt="Ryan Ngugi" className="object-cover" />
             <AvatarFallback className="text-4xl bg-gradient-to-br from-purple-primary to-purple-secondary text-background">
               RG
             </AvatarFallback>
