@@ -6,7 +6,7 @@ const Header = () => {
     // Create a sample CV download link
     const link = document.createElement('a');
     link.href = '/sample-cv.pdf'; // You can replace this with your actual CV file
-    link.download = 'Ryan_Geekin_CV.pdf';
+    link.download = 'Ryan_Ngugi_CV.pdf';
     link.click();
   };
 
